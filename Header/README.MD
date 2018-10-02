@@ -1,0 +1,3 @@
+-chat.h contains Chat, ChatClient and ChatServer class
+-communication.h contains Connection, Server and Client class
+-protocol.h contains enumerated types and structs for communication protocol
